@@ -1,6 +1,9 @@
 ### 后端
   https://github.com/truechain/truechain-task-platform
 - 新建含有源code maven 
+
+![](https://github.com/SmallNancy/skills/blob/master/imgs/importSource.png)
+
 - mvn install 
 
 ![img](https://github.com/SmallNancy/skills/blob/master/imgs/settingMVN.png)
