@@ -2,7 +2,6 @@
   https://github.com/truechain/truechain-task-platform
 - 新建含有源code maven 
 - mvn install 
-![avatar](
 
 ![img](https://github.com/SmallNancy/skills/blob/master/imgs/settingMVN.png)
 
