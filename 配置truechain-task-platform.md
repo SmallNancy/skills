@@ -4,7 +4,7 @@
 
 ![](https://github.com/SmallNancy/skills/blob/master/imgs/importSource.png)
 
-- mvn install 
+- mvn install   缺失包导入
 
 ![img](https://github.com/SmallNancy/skills/blob/master/imgs/settingMVN.png)
 
