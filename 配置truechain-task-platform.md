@@ -3,7 +3,7 @@
 - 新建含有源code maven 
 - mvn install 
 
-![] https://github.com/SmallNancy/skills/blob/master/imgs/settingMVN.png
+![img] (https://github.com/SmallNancy/skills/blob/master/imgs/settingMVN.png)
 
  server  maven分别   Lifecycle install 
  启动   TruechainTaskPlatformApplication
