@@ -14,6 +14,9 @@
  ### 端口号
  - task_front[分支manage,修改端口8088]-->nginx[/admin，端口80]-->task_admin[8081]
  
+ ### 修改host,用SwichHost
+ - 127.0.0.1 www .1 www.phptrain.cn
+ 
  ### 前端
  - 修改index.js 端口号为  8088
  - 下载地址github.com\truechain\task-front  master 分支
