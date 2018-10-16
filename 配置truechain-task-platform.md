@@ -13,7 +13,7 @@
 - mvn install   缺失包导入
 
 #### 3、Maven版本设置
-- file---settings---maven 如下图：
+- file---settings---maven (仓库是我自己设置的)如下图：
 
 ![img](https://github.com/SmallNancy/skills/blob/master/imgs/settingMVN.png)
 
@@ -31,5 +31,9 @@
  - 修改前端github.com\truechain\task-front\config的index.js的端口号
  - 启动npm run dev。
  - 启动nginx
- - redis服务器
+ - redis服务器 (如果你的redis没有设置密码，需要删除配置文件application.yml中的redis密码)
  ![](https://github.com/SmallNancy/skills/blob/master/imgs/redis.png)
+
+### 问题
+- manage分支代码，对应启动后端的admin中的 TruechainTaskPlatformApplication 
+- master分支代码，对应api中的  TrueChainTaskApiApplication 
