@@ -12,20 +12,24 @@
  启动   TruechainTaskPlatformApplication
 - mvn install   缺失包导入
 
+#### 3、Maven版本设置
+- file---settings---maven 如下图：
+
 ![img](https://github.com/SmallNancy/skills/blob/master/imgs/settingMVN.png)
 
  
- 
- ### 端口号
+ ### 4、端口号
  - task_front[分支manage,修改端口8088]-->nginx[/admin，端口80]-->task_admin[8081]
  
- ### 修改host,用SwichHost
+ ### 5、修改host,用SwichHost
  - 127.0.0.1 www .1 www.phptrain.cn
  
- ### 前端
+ ### 6、前端
  - 修改index.js 端口号为  8088
  - 下载地址github.com\truechain\task-front  master 分支
- - 在task-front目录下执行npm install
+ - 在task-front目录下执行npm install(如果执行不成功，删除node_modules文件夹中内容)
  - 修改前端github.com\truechain\task-front\config的index.js的端口号
  - 启动npm run dev。
- - 启动nginx、redis服务器
+ - 启动nginx
+ - redis服务器
+ ![](https://github.com/SmallNancy/skills/blob/master/imgs/redis.png)
